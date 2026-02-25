@@ -69,8 +69,8 @@ A proposta pedagógica é baseada em:
 
 ## 📎 Licença
 
-Código → MIT
-Material didático (PDF, listas, avaliações) → CC BY-NC 4.0
+- Código → MIT
+- Material didático (PDF, listas, avaliações) → CC BY-NC 4.0
 
 ---
 
