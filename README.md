@@ -67,12 +67,56 @@ A proposta pedagógica é baseada em:
 
 ---
 
-## 📎 Licença
+## 📄 Licença
 
 - Código → MIT
 - Material didático (PDF, listas, avaliações) → CC BY-NC 4.0
+---
 
+Este repositório utiliza um modelo de licenciamento híbrido, conforme descrito abaixo:
+
+### 💻 Código-fonte
+
+Todo o código presente neste repositório está licenciado sob a **MIT License**.
+
+Isso significa que é permitido:
+- Utilizar
+- Modificar
+- Distribuir
+- Utilizar comercialmente
+
+Desde que seja mantido o aviso de copyright e a licença original.
+
+---
+
+### 📚 Material Didático
+
+Os materiais educacionais (incluindo PDFs, listas de exercícios, avaliações, slides e documentos teóricos) estão licenciados sob:
+
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**
+
+Isso significa que é permitido:
+- Compartilhar
+- Adaptar
+- Utilizar para fins educacionais
+
+Desde que:
+- Seja dado o devido crédito ao autor
+- Não haja uso comercial do material
+
+🔗 Mais informações: https://creativecommons.org/licenses/by-nc/4.0/
+
+---
+
+© Syrran Tech Academy  
+Uso educacional com preservação de autoria.
 ---
 
 **Syrran Tech Academy**  
 Tecnologia com método. Ensino com propósito.
+
+## 👨‍🏫 Autoria
+
+A Syrran Tech Academy é uma iniciativa educacional independente criada e mantida por **Ronildo Aparecido Ferreira**. 
+
+Os conteúdos, códigos e materiais aqui disponibilizados são de sua autoria ou adaptação pedagógica para fins educacionais.
