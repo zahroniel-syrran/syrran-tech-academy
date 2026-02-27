@@ -1,3 +1,7 @@
+<table>
+<tr>
+<td width="60%" valign="top">
+
 # 🚀 Syrran Tech Academy
 
 Bem-vindo ao repositório oficial da **Syrran Tech Academy**.
@@ -15,7 +19,15 @@ A Syrran Tech Academy tem como propósito:
 - Simular práticas próximas ao ambiente profissional real
 - Organizar conteúdos de forma estruturada e progressiva
 
----
+</td>
+
+<td width="40%" align="center">
+
+<img src="assets/img/zahroniel.png" width="250">
+
+</td>
+</tr>
+</table>
 
 ## 📂 Estrutura do Repositório
 
