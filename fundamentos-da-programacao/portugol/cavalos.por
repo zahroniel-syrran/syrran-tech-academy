@@ -20,7 +20,7 @@ programa
 	    Leia(qtd_cavalos)
 	    ferraduras = 4*qtd_cavalos
         escreva("\n\nA quantidade de cavalos adquiridas é : ",qtd_cavalos)
-        escreva("São necessárias:",ferraduras," ferraduras")
+        escreva("São necessárias: ",ferraduras," ferraduras")
 
 	}
 }
