@@ -7,6 +7,7 @@ Atividade em **grupo**.
 - A atividade deve ser **publicada no GitHub do grupo**.
 - As respostas devem ser **claras, objetivas e organizadas**.
 - O trabalho deve ser **colaborativo**, com participação de todos os integrantes.
+- O formato do arquivo é Markdown. O nome deve ser: **B1-M1-questionario.md**. Use apoio de AI para formatar o texto.
 
 ⚠️ **Observação:**  
 Caso seja identificado que **apenas um integrante realizou a postagem ou respondeu às questões**, o conceito do grupo poderá ser **reduzido**.  
