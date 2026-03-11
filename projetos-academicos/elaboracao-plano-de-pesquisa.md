@@ -144,7 +144,9 @@ Indicar:
 - Forma de coleta de dados (se houver)
 
 A metodologia deve demonstrar organização e viabilidade.
+
 ---
+
 ## Tipos de pesquisa
 
 Em trabalhos acadêmicos e projetos de TCC, diferentes **tipos de pesquisa** são utilizados dependendo do objetivo do estudo. Cada tipo ajuda o pesquisador a investigar um problema de forma adequada, seja para compreender melhor um tema, aplicar conhecimentos na prática ou reunir informações já publicadas.
