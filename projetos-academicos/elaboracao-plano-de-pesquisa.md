@@ -144,7 +144,22 @@ Indicar:
 - Forma de coleta de dados (se houver)
 
 A metodologia deve demonstrar organização e viabilidade.
+---
+## Tipos de pesquisa
 
+Em trabalhos acadêmicos e projetos de TCC, diferentes **tipos de pesquisa** são utilizados dependendo do objetivo do estudo. Cada tipo ajuda o pesquisador a investigar um problema de forma adequada, seja para compreender melhor um tema, aplicar conhecimentos na prática ou reunir informações já publicadas.
+
+- **Pesquisa exploratória**  
+  Busca compreender melhor um tema ainda pouco conhecido ou pouco estudado. Normalmente envolve levantamento inicial de informações, entrevistas ou observações.  
+  **Exemplo:** um grupo de alunos investiga como os estudantes da escola utilizam aplicativos de organização de tarefas.
+
+- **Pesquisa aplicada**  
+  Tem como objetivo **resolver um problema prático**, utilizando conhecimentos científicos ou técnicos.  
+  **Exemplo:** desenvolver um aplicativo simples para ajudar alunos a controlar prazos de trabalhos escolares.
+
+- **Pesquisa bibliográfica**  
+  Baseia-se na **análise de materiais já publicados**, como livros, artigos científicos e sites confiáveis.  
+  **Exemplo:** estudar livros e artigos sobre segurança da informação para escrever o referencial teórico de um TCC.
 ---
 
 ## 📅 Cronograma
