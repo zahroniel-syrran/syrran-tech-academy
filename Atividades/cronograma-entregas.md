@@ -40,6 +40,18 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
     <td>No prazo</td>
   </tr>
 
+ <tr>
+    <td>1D</td>
+    <td>PA</td>
+    <td>30/03/2026</td>
+    <td>1BIM - M2</td>
+    <td>
+    	<a href="https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/Atividades/I26-P1068-1PA-B1-M2-Lista-exercicio-(v0.1).md">I26-P1068-1PA-B1-M2-Lista-exercicio-(v0.1).md	
+		</a>
+	</td>
+    <td>No prazo</td>
+  </tr>
+
   <tr>
     <td>1C2</td>
     <td>PA</td>
@@ -78,6 +90,7 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 	</td>
     <td>No prazo</td>
   </tr>
+
 
 </table>
 
