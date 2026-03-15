@@ -58,10 +58,10 @@ Não representa oficialmente nenhuma instituição de ensino.
 Os conteúdos podem envolver:
 
 - Python
-- PHP
-- JavaScript
-- HTML & CSS
-- Banco de Dados (MySQL / MariaDB)
+- Portugol
+- Linguagem "C"
+- Sistema embarcados e IoT
+- Sistemas Operacionais (Windows/Linux)
 - Git & GitHub
 - Docker (quando aplicável)
 
