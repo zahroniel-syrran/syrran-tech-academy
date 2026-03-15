@@ -53,6 +53,32 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
     <td>No prazo</td>
   </tr>
 
+  <tr>
+    <td>1C2</td>
+    <td>SE</td>
+    <td>30/03/2026</td>
+    <td>1BIM - M1</td>
+    <td>
+    	<a href="https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/Atividades/1C2_SistEmbarcados_Atividade01.pdf">
+		1C2_SistEmbarcados_Atividade01.pdf
+		</a>
+	</td>
+    <td>No prazo</td>
+  </tr>
+
+  <tr>
+    <td>1C3</td>
+    <td>SE</td>
+    <td>30/03/2026</td>
+    <td>1BIM - M1</td>
+    <td>
+    	<a href="https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/Atividades/1C3_SistEmbarcados_Atividade01.pdf">
+		1C3_SistEmbarcados_Atividade01.pdf
+		</a>
+	</td>
+    <td>No prazo</td>
+  </tr>
+
 </table>
 
 ---
