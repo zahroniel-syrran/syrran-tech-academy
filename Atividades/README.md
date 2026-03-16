@@ -95,6 +95,22 @@ https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/Atividades/exe
   </tr>
 
 
+  <tr>
+    <td>C3</td>
+    <td>TCC</td>
+    <td>30/03/2026</td>
+    <td>1BIM - M1</td>
+    <td>
+    	<a href="https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/Atividades/exercicios-e-projetos/1C3_SistEmbarcados_Atividade01.pdf">
+		1C3_SistEmbarcados_Atividade01.pdf
+		</a>
+	</td>
+    <td>No prazo</td>
+  </tr>
+
+2026-TCC-B1-M1-Questionario-(v0.1).md
+
+
 </table>
 
 ---
