@@ -5,6 +5,10 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 É responsabilidade do aluno acompanhar este cronograma e cumprir os prazos estabelecidos.
 
 ---
+**Zaroniel**
+- Github: https://github.com/zahroniel-syrran
+- Github: https://github.com/ronildo-ferreira
+---
 
 ## 📌 Orientações Importantes
 
