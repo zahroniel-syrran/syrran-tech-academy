@@ -15,9 +15,6 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 
 ---
 
-
-https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/Atividades/exercicios-e-projetos/
-
 ## 📋 Cronograma
 
 <table border="1">
@@ -96,20 +93,54 @@ https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/Atividades/exe
 
 
   <tr>
-    <td>C3</td>
+    <td>3C</td>
     <td>TCC</td>
     <td>30/03/2026</td>
     <td>1BIM - M1</td>
     <td>
-    	<a href="https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/Atividades/exercicios-e-projetos/1C3_SistEmbarcados_Atividade01.pdf">
-		1C3_SistEmbarcados_Atividade01.pdf
+    	<a href="https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/projetos-academicos/2026-TCC-B1-M1-Questionario-(v0.1).md">
+		2026-TCC-B1-M1-Questionario-(v0.1).md
 		</a>
 	</td>
     <td>No prazo</td>
   </tr>
 
-2026-TCC-B1-M1-Questionario-(v0.1).md
+  <tr>
+    <td>3C</td>
+    <td>TCC</td>
+    <td>30/03/2026</td>
+    <td>1BIM - M2</td>
+    <td>
+		Plano de Pesquisa
+		</a>
+	</td>
+    <td>No prazo</td>
+  </tr>
 
+  <tr>
+    <td>3D</td>
+    <td>TCC</td>
+    <td>30/03/2026</td>
+    <td>1BIM - M1</td>
+    <td>
+    	<a href="https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/projetos-academicos/2026-TCC-B1-M1-Questionario-(v0.1).md">
+		2026-TCC-B1-M1-Questionario-(v0.1).md
+		</a>
+	</td>
+    <td>No prazo</td>
+  </tr>
+
+  <tr>
+    <td>3D</td>
+    <td>TCC</td>
+    <td>30/03/2026</td>
+    <td>1BIM - M2</td>
+    <td>
+		Plano de Pesquisa
+		</a>
+	</td>
+    <td>No prazo</td>
+  </tr>
 
 </table>
 
