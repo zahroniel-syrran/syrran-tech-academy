@@ -15,6 +15,9 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 
 ---
 
+
+https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/Atividades/exercicios-e-projetos/
+
 ## 📋 Cronograma
 
 <table border="1">
@@ -33,7 +36,7 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
     <td>30/03/2026</td>
     <td>1BIM - M1</td>
     <td>
-    	<a href="https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/Atividades/I26-P1068-1PA-B1-M1-Questionario-(v0.1).md">
+    	<a href="https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/Atividades/exercicios-e-projetos/I26-P1068-1PA-B1-M1-Questionario-(v0.1).md">
 		I26-P1068-1PA-B1-M1-Questionario-(v0.1).md
 		</a>
 	</td>
@@ -46,7 +49,7 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
     <td>30/03/2026</td>
     <td>1BIM - M2</td>
     <td>
-    	<a href="https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/Atividades/I26-P1068-1PA-B1-M2-Lista-exercicio-(v0.1).md">I26-P1068-1PA-B1-M2-Lista-exercicio-(v0.1).md	
+    	<a href="https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/Atividades/exercicios-e-projetos/I26-P1068-1PA-B1-M2-Lista-exercicio-(v0.1).md">I26-P1068-1PA-B1-M2-Lista-exercicio-(v0.1).md	
 		</a>
 	</td>
     <td>No prazo</td>
@@ -58,7 +61,7 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
     <td>30/03/2026</td>
     <td>1BIM - M1</td>
     <td>
-    	<a href="https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/Atividades/I26-P1068-1PA-B1-M1-Questionario-(v0.1).md">
+    	<a href="https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/Atividades/exercicios-e-projetos/I26-P1068-1PA-B1-M1-Questionario-(v0.1).md">
 		I26-P1068-1PA-B1-M1-Questionario-(v0.1).md
 		</a>
 	</td>
@@ -71,7 +74,7 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
     <td>30/03/2026</td>
     <td>1BIM - M1</td>
     <td>
-    	<a href="https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/Atividades/1C2_SistEmbarcados_Atividade01.pdf">
+    	<a href="https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/Atividades/exercicios-e-projetos/1C2_SistEmbarcados_Atividade01.pdf">
 		1C2_SistEmbarcados_Atividade01.pdf
 		</a>
 	</td>
@@ -84,7 +87,7 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
     <td>30/03/2026</td>
     <td>1BIM - M1</td>
     <td>
-    	<a href="https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/Atividades/1C3_SistEmbarcados_Atividade01.pdf">
+    	<a href="https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/Atividades/exercicios-e-projetos/1C3_SistEmbarcados_Atividade01.pdf">
 		1C3_SistEmbarcados_Atividade01.pdf
 		</a>
 	</td>
