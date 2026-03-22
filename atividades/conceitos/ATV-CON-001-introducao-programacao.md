@@ -710,3 +710,20 @@ Materiais recomendados para estudo:
 
 - Curso em Vídeo — Lógica de Programação  
   https://www.cursoemvideo.com
+
+---
+
+**Metadata & Attribution**
+
+* **Date:** March 2026
+
+* **Character:** Zahy — Zahroniel Syrran *(from the Zaion Universe)*
+
+* **Character GitHub:** [Zahroniel Syrran](https://github.com/zahroniel-syrran)
+
+* **Author:** Human — Ronildo A. Ferreira
+
+* **Author GitHub:** [Ronildo A Ferreira](https://github.com/ronildo-ferreira)
+
+
+* **License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
