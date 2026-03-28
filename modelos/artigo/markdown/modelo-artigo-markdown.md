@@ -80,7 +80,7 @@ A introdução deve ter somente estes 5 parágrafos, abaixo.
 ### Exemplo de citação direta longa:
 
 ><p align="justify" size=3>No final da Idade Média, a importância do papel cresceu com a expansão do comércio europeu e tornou-se produto essencial para a administração pública e para a divulgação literária.</p>
-><p align="justify" size=3>Johann Gutenberg inventou o processo de impressão com caracteres móveis - a tipografia. Nascido, em 1397, da cidade de Mogúncia, Alemanha, trabalhava na Casa da Moeda onde aprendeu a arte de trabalhos em metal. Em 1428, Gutenberg parte para Estrasburgo, onde fez as primeiras tentativas de impressão. Segundo dados históricos, em 1442, foi impresso o primeiro exemplar em uma prensa. Em 1448 volta à sua cidade natal, e dá início a uma sociedade comercial com Johann Fust e fundam a 'Fábrica de Livros' - nome original Werk der Buchei. Entre as produções está a conhecida Bíblia de Gutenberg de 42 linhas (CALDEIRA, 2002, p.2).</p>
+><p align="justify" size="3px">Johann Gutenberg inventou o processo de impressão com caracteres móveis - a tipografia. Nascido, em 1397, da cidade de Mogúncia, Alemanha, trabalhava na Casa da Moeda onde aprendeu a arte de trabalhos em metal. Em 1428, Gutenberg parte para Estrasburgo, onde fez as primeiras tentativas de impressão. Segundo dados históricos, em 1442, foi impresso o primeiro exemplar em uma prensa. Em 1448 volta à sua cidade natal, e dá início a uma sociedade comercial com Johann Fust e fundam a 'Fábrica de Livros' - nome original Werk der Buchei. Entre as produções está a conhecida Bíblia de Gutenberg de 42 linhas (CALDEIRA, 2002, p.2).</p>
 
 ---
 
