@@ -95,11 +95,11 @@ A linguagem científica deve ser objetiva e impessoal.
 ---
 
 ### Figuras
-<center>
+<p align="center">
 Figura 7: Processador Intel I3, 4ª Geração<br>  
 <img src="img/processador.jpg" width="250"><br>
 Fonte: Atera Informática  
-</center>
+</p>
 
 ---
 
