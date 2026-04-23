@@ -4,6 +4,7 @@
 
 - Modalidade: em Dupla (Dividam os exercícios)
 - Entrega: GitHub
+- Testar em: https://www.programiz.com/cpp-programming/online-compiler/
 
 Este material reorganiza os exercícios e explica **como pensar logicamente** na construção do programa em **C++**, sem apresentar a solução pronta.  
 A ideia é ajudar o aluno a identificar **entradas**, **processamento**, **saídas**, estruturas de repetição, testes condicionais e variáveis de controle.
