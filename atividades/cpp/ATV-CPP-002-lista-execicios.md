@@ -14,8 +14,8 @@ Praticar lógica de programação em **C++**, utilizando:
 
 ---
 
-## 📅 Data de Entrega
-- **10/06/2026**
+## 📅 Entrega
+
 - Entregar no **GitHub do grupo**, dentro da pasta da dupla
 
 ---
